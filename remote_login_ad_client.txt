@@ -11,3 +11,6 @@ Look for Remote Desktop Services and make sure the Log on account is Network Ser
 Then run: gpupdate /force
 
 Check your event logs.
+
+This can be done with GPO too. 
+Run gpedit.msc and find the same policy, apply at the domain level, so every machine on the domain will contain the same policy. Run gpupdate /force
