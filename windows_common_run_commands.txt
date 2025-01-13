@@ -1,0 +1,60 @@
+cmd -> Opens Command Prompt
+
+powershell -> Opens PowerShell
+
+services.msc -> Opens Services Manager
+
+taskmgr -> Opens Task Manager
+
+msconfig -> Opens System Configuration
+
+eventvwr -> Opens Event Viewer
+
+compmgmt.msc -> Opens Computer Management
+
+regedit -> Opens Registry Editor
+
+gpedit.msc -> Opens Group Policy Editor
+
+cleanmgr -> Opens Disk Cleanup
+
+diskmgmt.msc -> Opens Disk Management
+
+sysdm.cpl -> Opens System Properties
+
+ncpa.cpl -> Opens Network Connections
+
+mstsc -> Opens Remote Desktop Connection
+
+control -> Opens Control Panel
+
+. -> Opens Current User’s Home Directory
+
+.. -> Opens Parent Directory
+
+%temp% -> Opens Temporary Files Folder
+
+notepad -> Opens Notepad
+
+calc -> Opens Calculator
+
+snippingtool -> Opens Snipping Tool
+
+osk -> Opens On-Screen Keyboard
+
+write -> Opens WordPad
+
+explorer -> Opens File Explorer
+
+My top picks: %temp% to clear temp files, taskmgr for quick app kills, and mstsc for remote desktop!
+
+
+w32tm -monitor Time sync info plus a quick way to get a list of all domain controllers
+
+
+lusrmgr.msc - Local Users and Groups - Common for me for server access and local admin rights.. daily for me
+
+timedate.cpl, for when server 2019+ decide to gray out the time zone setting in the default UI
+
+
+
